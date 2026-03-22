@@ -137,7 +137,7 @@ tension_level: 6
 >
 > Hi Bill,
 >
-> We'd love you to be the keynote speaker at ScouterCon SF. It's in 6 weeks. The conference is September 17th in San Francisco. As one of the core contributors who shaped scouter's architecture from the early days, we believe you're the perfect person to share the vision of where scouter is heading.
+> We'd love you to be the keynote speaker at ScouterCon SF. It's in 6 weeks. The conference is September 16th in San Francisco. As one of the core contributors who shaped scouter's architecture from the early days, we believe you're the perfect person to share the vision of where scouter is heading.
 >
 > Let us know by August 1st.
 
@@ -145,9 +145,9 @@ tension_level: 6
 
 빌은 메일을 다시 읽었다. 세 번째 읽었을 때 날짜가 눈에 박혔다.
 
-*September 17th.*
+*September 16th.*
 
-9월 17일. 6주 뒤. 빌은 캘린더를 열었다. 9월 셋째 주. 거기에는 아직 아무 일정도 없었다. 하지만 빌의 머릿속에는 하윤이 지난주 카페에서 한 말이 남아 있었다.
+9월 16일. 6주 뒤. 빌은 캘린더를 열었다. 9월 셋째 주. 거기에는 아직 아무 일정도 없었다. 하지만 빌의 머릿속에는 하윤이 지난주 카페에서 한 말이 남아 있었다.
 
 *"라운지 최종 프레젠테이션이 9월 중순쯤 될 것 같아요. 정확한 날짜는 아직 안 잡혔는데, 셋째 주가 유력해요."*
 
